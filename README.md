@@ -1,5 +1,5 @@
 # Signature with HTML and little CSS
 - HTML.
-- CSS3.
+- CSS.
 
 ![Alt text](https://github.com/walejandromt/Signature/blob/master/img.png "Optional title")
