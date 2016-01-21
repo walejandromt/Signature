@@ -1,5 +1,5 @@
-# Curso de HTML: maquetación semántica de una página en HTML 5
--HTML 5 
--CSS3 
--JavaScript.
-![Alt text](http://full/path/to/img.jpg "Optional title")
+# Signature with HTML and little CSS
+- HTML.
+- CSS3.
+
+![Alt text](https://github.com/walejandromt/Signature/blob/master/img.png "Optional title")
